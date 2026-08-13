@@ -12,4 +12,4 @@ I’m interested in building **intelligent, practical, and research-driven syste
 
 🤝 Open to learning from others, collaborating on interesting ideas, and contributing to meaningful technical work.
 
-🔗Contact - [LinkedIn](https://www.linkedin.com/in/ashu-rajput-666214252/) or email-ashuraj.08.2003@gmail.com
+🔗Contact - [LinkedIn](https://www.linkedin.com/in/ashu-rajput-666214252/) or email - ashuraj.08.2003@gmail.com
