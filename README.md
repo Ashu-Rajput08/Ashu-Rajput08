@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Ashu Rajput 👋
 
-<!--
-**Ashu-Rajput08/Ashu-Rajput08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Graduate | AI/ML | Deep Learning | Computer Vision**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m interested in building **intelligent, practical, and research-driven systems** across AI and software engineering.
+
+
+🚀 Always learning, experimenting, building, and turning ideas into working systems.
+
+🔍 Curious about difficult problems, new technologies, and the intersection of AI, research, and engineering.
+
+🤝 Open to learning from others, collaborating on interesting ideas, and contributing to meaningful technical work.
+
+🔗Contact - [LinkedIn](https://www.linkedin.com/in/ashu-rajput-666214252/) or email-ashuraj.08.2003@gmail.com
